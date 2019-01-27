@@ -1,0 +1,13 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/chenxinyun/final scala/scala_final_project/app/controllers/Crawler/Actor/WorkerActor.scala:64:31: object JavaConversions in package collection is deprecated (since 2.12.0): use JavaConverters[0m
+[0m[[0m[33mwarn[0m] [0m[0m    for (element <- doc.select("div.mlist")) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/chenxinyun/final scala/scala_final_project/app/controllers/Crawler/Actor/WorkerActor.scala:83:31: object JavaConversions in package collection is deprecated (since 2.12.0): use JavaConverters[0m
+[0m[[0m[33mwarn[0m] [0m[0m    for (element <- doc.select("div.dpc_box")) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/chenxinyun/final scala/scala_final_project/app/controllers/Crawler/Actor/WorkerActor.scala:116:24: object JavaConversions in package collection is deprecated (since 2.12.0): use JavaConverters[0m
+[0m[[0m[33mwarn[0m] [0m[0m    for ((_, value) <- discountsMap) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/chenxinyun/final scala/scala_final_project/app/controllers/SparkAnalysis.scala:30:20: constructor SQLContext in class SQLContext is deprecated (since 2.0.0): Use SparkSession.builder instead[0m
+[0m[[0m[33mwarn[0m] [0m[0m  val sqlContext = new SQLContext(sparkContext)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mfour warnings found[0m
